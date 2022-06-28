@@ -16,7 +16,7 @@ Esta é uma resolução para o [Project tracking intro component challenge on Fr
 Projeto desenvolvido para treino e auxílio no desenvolvimento das habilidades com HTML e CSS.
 
 ### Screenshot
-![](.assets/images/screenshot.jpg)
+![](./assets/images/screenshot.jpg)
 
 ### Links
 - Endereço da Solução: [Respositório em meu GitHub](https://github.com/juniorrdgs/Project tracking intro component challenge on Frontend Mentor)
